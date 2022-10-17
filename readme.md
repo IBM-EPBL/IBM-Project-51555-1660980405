@@ -1,3 +1,6 @@
+IBM-Project-51555-1660980405
+CRUDE OIL PREDICTION
+
 Project Objectives
 
 1. To know fundamental concepts and techniques of time series forecasting and LSTM
